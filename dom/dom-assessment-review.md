@@ -17,7 +17,7 @@ Welcome to your DOM Assessment Review. This will test your knowledge of using
 the text should should update with the name of the cohort.
 
 ```$xslt
-My Cohort: Deimos
+My Cohort: Ganymede
 ```
 
 - When 'Highlight' button is clicked, change the background color of the 
